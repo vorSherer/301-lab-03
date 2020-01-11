@@ -46,15 +46,14 @@ Actual time needed to complete: 35 min
 
 
 ### How to Run the App
-From the terminal `open index.html` from root of the project.
+<!-- From the terminal `open index.html` from root of the project.
 ​
 OR 
 ​
-`live-server` from the root of the project
+`live-server` from the root of the project -->
 ​
 ### Resources
 
-**WHAT** courtesy of **SOURCE** -->
 
 ### Footnotes
 
